@@ -1,0 +1,33 @@
+<html>
+<h1> This is cool> </h1>
+<p> this going to be css and u hope i make money from this! </p>
+<p> this going to be css and u hope i make money from this! </p>
+<p> this going to be css and u hope i make money from this! </p>
+<p> this going to be css and u hope i make money from this! </p>
+<style>="
+    <body> {
+        background-color: lightblue;
+    }
+    h1 {
+        color: blue;
+        text-align: center;
+    }
+    p {
+        font-family: verdana;
+        font-size: 20px;
+    }>
+    #box {
+        width: 100px;
+        height: 100px;
+        border: 1px solid rgb(255, 0, 0);
+        animation: slideleft 2s infinite;
+        animation-duration: 10s;
+        @keyframes slideleft {
+            
+        } slideleft {
+            
+        }
+    }
+    </body>
+</style>
+</html>
